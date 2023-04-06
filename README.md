@@ -1,5 +1,5 @@
 # Sociosphere
-## A social media app in MERN Stack
+## A social media app built in MERN Stack
 
 ### napshots
 #### Web
