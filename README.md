@@ -1,7 +1,7 @@
 # Sociosphere
 ## A social media app built in MERN Stack
 
-### napshots
+### Snapshots
 #### Web
 ![image](https://user-images.githubusercontent.com/116620586/230324159-1ace015c-cdef-4562-a9a0-e460f201ee77.png)
 ![image](https://user-images.githubusercontent.com/116620586/230324176-f58dea53-2eea-48e3-84ef-5506783ae25d.png)
@@ -12,7 +12,7 @@
 ![image](https://user-images.githubusercontent.com/116620586/230324367-6013a2c3-fa8f-47fa-9d02-dfa4a92e9190.png)
 
 
-###Features:
+### Features:
 - Responsive design for both mobile and web
 - User can post with attachment
 - User can make friends
